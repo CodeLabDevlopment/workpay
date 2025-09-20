@@ -1,3 +1,6 @@
 [submodule "wp-worker"]
 	path = wp-worker
 	url = https://github.com/CodeLabDevlopment/wp-worker.git
+[submodule "wp-payroll"]
+	path = wp-payroll
+	url = https://github.com/CodeLabDevlopment/wp-payroll.git

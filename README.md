@@ -16,12 +16,8 @@ A comunicação entre os serviços é orquestrada por meio de um Eureka Server, 
 
 ---
 ## 🛠️ Tecnologias Utilizadas
-Java: Linguagem de programação principal.
-
-Spring Boot: Framework para desenvolvimento dos microsserviços.
-
-Eureka Server: Registro de serviço para descoberta dos microsserviços.
-
-Gateway Zuul: Gateway de API para roteamento e filtragem de requisições.
-
-Feign Client: Cliente HTTP declarativo para comunicação entre serviços.
+- Java: Linguagem de programação principal.
+- Spring Boot: Framework para desenvolvimento dos microsserviços.
+- Eureka Server: Registro de serviço para descoberta dos microsserviços.
+- Gateway Zuul: Gateway de API para roteamento e filtragem de requisições.
+- Feign Client: Cliente HTTP declarativo para comunicação entre serviços.

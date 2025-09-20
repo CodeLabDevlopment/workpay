@@ -1,0 +1,3 @@
+[submodule "wp-worker"]
+	path = wp-worker
+	url = https://github.com/CodeLabDevlopment/wp-worker.git

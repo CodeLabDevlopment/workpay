@@ -4,3 +4,6 @@
 [submodule "wp-payroll"]
 	path = wp-payroll
 	url = https://github.com/CodeLabDevlopment/wp-payroll.git
+[submodule "wp-server"]
+	path = wp-server
+	url = https://github.com/CodeLabDevlopment/wp-server.git
